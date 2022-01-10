@@ -12,7 +12,6 @@ class Body extends Component {
             currentBubbleTwo,
             currentQuickTwo,
             pivot,
-            currentSwappers,
             currentHeapThree,
             currentSorted,
             currentMergeX,
