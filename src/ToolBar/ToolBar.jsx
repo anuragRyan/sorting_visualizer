@@ -49,7 +49,7 @@ class ToolBar extends Component {
                     id={!isRunning ? 'generateArray' : 'generateArrayX'}
                     style={{color: color, cursor: cursor}}
                     onClick={!isRunning ? () => generateArray(array.length) : null}>
-                    Generate New Arrays
+                    Generate New Array
                 </div>
                 <div className="separator"></div>
                 <div
